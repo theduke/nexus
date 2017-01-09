@@ -1,0 +1,6 @@
+[package]
+name = "nexus"
+version = "0.1.0"
+authors = ["theduke <chris@theduke.at>"]
+
+[dependencies]
