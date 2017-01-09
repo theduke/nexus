@@ -4,3 +4,7 @@ version = "0.1.0"
 authors = ["theduke <chris@theduke.at>"]
 
 [dependencies]
+crc = "1.*"
+memmap = "0.5.*"
+byteorder = "1.*"
+
